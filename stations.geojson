@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Van Dorn Street",
+        "marker-color": "#0000ff",
+        "marker-symbol": "mobilephone",
+        "line": "vod",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12911152370515,
+          38.79930767201779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franconia-Springfield",
+        "marker-color": "#0000ff",
+        "marker-symbol": "oil-well",
+        "line": "vod",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.16797018042666,
+          38.766521892689916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Federal Center SW",
+        "marker-color": "#0000ff",
+        "marker-symbol": "mobilephone",
+        "line": "vod",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01586821694521,
+          38.885072355144786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol South",
+        "marker-color": "#0000ff",
+        "marker-symbol": "oil-well",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00513941992737,
+          38.885062500925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braddock Road",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05366757406264,
+          38.81414366728901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King St - Old Town",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06081120854599,
+          38.806586117247996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Market",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99600112671642,
+          38.884622260842676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Potomac Ave",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98549531965503,
+          38.88126327363317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadium Armory",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97708890144222,
+          38.88670908984284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capitol Heights",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91180811452222,
+          38.889465856872334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Boulevard",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.86807476813904,
+          38.89383492821474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benning Road",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "bts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93836486812415,
+          38.89097567600269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Addison Road Seat Pleasant",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.89410791000809,
+          38.886747816832674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Largo Town Center",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.84203752022478,
+          38.905068807210085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosslyn",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07090868538504,
+          38.89597909628309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arlington|Cemetery",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06281012914037,
+          38.88468685852292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pentagon",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05371567343194,
+          38.869462701258364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal City",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05028980970857,
+          38.857904320437974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McPherson Sq",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03363417212512,
+          38.90133279688736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foggy Bottom GWU",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05027773906102,
+          38.900698009227014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Farragut West",
+        "marker-color": "#0000ff",
+        "marker-symbol": "rail-metro",
+        "line": "meo",
+        "instr": "cell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0406954151549,
+          38.90131289417984
+        ]
+      }
+    }
+  ]
+}
